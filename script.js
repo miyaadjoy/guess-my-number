@@ -66,9 +66,6 @@ document.querySelector('.check').addEventListener('click', function () {
 
         document.querySelector('body').style.backgroundColor = '#60b347';
 
-        document.querySelector('.number').style.width = '20rem';
-
-
         //high score
 
         if (score > highScore)
